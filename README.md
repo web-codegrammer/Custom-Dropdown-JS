@@ -9,6 +9,6 @@ Clone or Fork the repo to your local machine. Run the code on VS Code with the h
 
 ## Project is Licensed Under the
 
-[MIT License](https://github.com/web-codegrammer//Custom-Dropdown-JS/blob/main/LICENSE)
+[MIT License](https://github.com/web-codegrammer/Custom-Dropdown-JS/blob/main/LICENSE)
 
 Issued to ```Devanshu Vashishtha``` | Copyright ©️ 2022-2023 [web-codegrammer](https://github.com/web-codegrammer)
