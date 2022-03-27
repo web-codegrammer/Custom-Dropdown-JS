@@ -5,7 +5,7 @@
 
 ## Usage
 
-Clone or Fork the repo to your local machine. Run the code on VSCode with the help of live server or you can simply run on Localhost
+Clone the repo to your local machine(or you can even Fork on git). Run the code on VSCode with the help of live server or you can simply run on Localhost
 
 
 ## Project is Licensed Under the
